@@ -1,0 +1,21 @@
+{
+  "name": "summary",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yin Shanyang <me@yinshanyang.com> (http://yinshanyang.com)",
+  "license": "ISC",
+  "dependencies": {
+    "jaccard": "^0.3.0",
+    "lodash": "^3.9.3",
+    "natural": "^0.2.1",
+    "ngraph.graph": "0.0.11",
+    "ngraph.pagerank": "^0.1.2",
+    "sentence-tokenizer": "0.0.7",
+    "stopwords": "0.0.4",
+    "synchronize": "^0.9.11"
+  }
+}
